@@ -5,7 +5,7 @@ title: TMaize Blog
 description: TMaize的个人博客
 keywords: TMaize,Blog,Java,Html,JavaScript
 author: TMaize
-footerText: 'Copyright © 2016 皖ICP备16016174号'
+footerText: 'Copyright © 2016 皖ICP备160164号'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -40,8 +40,8 @@ menu:
   - title: 关于
     url: /pages/about.html
 
-# 点击页面文字冒出特效,不需要请设置为false
-extClickEffect: true
+# 点击页面文字冒出特效,不需要请设置为false 需要true
+extClickEffect: false
 
 # Google Adsense,不需要请设置为false
 # _includes/ext-adsense.html 里面修改为自己的配置
