@@ -20,6 +20,8 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 domainUrl: 'https://icp.me'
 baseurl: '/tmaize-blog'
 
+# logo 在 common.css，logo和"apple-touch-icon（在includes里head.html）ICO 已设置为同一张照片
+
 # 吐个槽地址，会在chat页面中重定向到该地址
 tucaoUrl: https://support.qq.com/product/
 
