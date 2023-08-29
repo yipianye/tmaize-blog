@@ -28,6 +28,17 @@
   {%- endif %} {%- if page.layout == "page" %}
   <link rel="stylesheet" href="{{site.baseurl}}/static/css/page.css?t={{buildAt}}" />
   {%- endif %}
+  <!-- baid -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?4d786ed31d368d6f7124788a1b5b839f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+  
   <script>
     window.blog = {
       baseurl: '{{site.baseurl}}',
