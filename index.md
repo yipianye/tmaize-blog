@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: Home
+title: Pang.Ge
 ---
 
 > Hello 陌生人，欢迎访问 Pang.Ge,
