@@ -9,6 +9,14 @@ footerText: ' Copyright '
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  
 kramdown:
   auto_ids: true
   input: GFM
