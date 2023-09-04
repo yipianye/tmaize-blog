@@ -17,6 +17,6 @@ title: Pang.Ge
 
 ## 联系我
 
-- Email: HelloWorld@email.cn
+- Email: ContactMe@Email.Cn
 
 - WeChat; QingHongJiao
