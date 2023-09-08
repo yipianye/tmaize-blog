@@ -17,6 +17,6 @@ title: Pang.Ge
 
 ## 联系我
 
-- Email: ContactMe@Email.Cn
+- Email: WorkGroup@88.Com
 
 - WeChat; QingHongJiao
